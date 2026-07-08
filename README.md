@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Stuart
 
-<!--
-**DevMain86/DevMain86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year Computer Science student at Deakin University, focused on
+full-stack web development. Previously spent several years in data and
+systems administration before pivoting into software.
 
-Here are some ideas to get you started:
+**Currently building:** full-stack web apps with JavaScript, Node.js
+and Express, plus a Japanese kana-learning app.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently learning:** React and secure frontend development.
+
+**Tech I work with**
+- **Languages:** JavaScript, Python, C#, C/C++
+- **Web:** Node.js, Express, HTML, CSS, REST APIs
+- **Data:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, Postman, VS Code
+
+**Reach me:** [LinkedIn](https://www.linkedin.com/in/stuart-main-a2a020b2/) · stu.main86@outlook.com
