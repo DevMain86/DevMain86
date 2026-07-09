@@ -15,4 +15,4 @@ and Express, plus a Japanese kana-learning app.
 - **Data:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Git, Postman, VS Code
 
-**Reach me:** [LinkedIn](https://www.linkedin.com/in/stuart-main-a2a020b2/) · stu.main86@outlook.com
+**Reach me at:** [LinkedIn](https://www.linkedin.com/in/stuart-main-a2a020b2/) · stu.main86@outlook.com
